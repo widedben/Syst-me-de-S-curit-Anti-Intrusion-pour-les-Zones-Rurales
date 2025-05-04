@@ -15,8 +15,8 @@ commandes liée a la camera de raspberry :
    
  sudo apt update && sudo apt upgrade -y
 3. Installer les bibliothèques de la caméra:
-
 sudo apt install -y libcamera-apps python3-picamera2
+
 4. Vérifier et activer la caméra:
 
 sudo nano /boot/config.txt
